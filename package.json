@@ -1,0 +1,19 @@
+{
+  "name": "GitTest3",
+  "version": "0.0.0",
+  "description": "",
+  "author": "JanethL <janeth@stdlib.com>",
+  "main": "functions/__main__.js",
+  "dependencies": {},
+  "private": true,
+  "stdlib": {
+    "build": "faaslang",
+    "name": "JanethL/GitTest3",
+    "timeout": 10000,
+    "publish": true,
+    "personalize": {
+      "keys": [],
+      "user": []
+    }
+  }
+}
